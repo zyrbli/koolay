@@ -1,2 +1,2 @@
 # koolay
-pro bono project for a friend (J.M. Zemog)
+pro bono website project for a friend (J.M. Zemog)
